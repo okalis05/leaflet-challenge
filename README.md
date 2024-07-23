@@ -2,9 +2,8 @@
 
 ---
 *** The instructions for this activity are broken into two parts:***
-- Part 2: Gather and Plot More Data (Optional with no extra points earning)
 - Part 1: Create the Earthquake Visualization
-
+- Part 2: Gather and Plot tectonic plates Data 
 ---
 ## Part 1: Create the Earthquake Visualization ##
 
@@ -14,6 +13,9 @@
  * Using Leaflet, create a map that plots all the earthquakes from our dataset based on their longitude and latitude.
  * Include popups that provide additional information about the earthquake when its associated marker is clicked.
  * Create a legend that will provide context for our map data.
+---
+<img width="1470" alt="Screenshot 2024-07-22 at 10 36 54 PM" src="https://github.com/user-attachments/assets/2144c26f-3289-457e-a8c9-1da79cea8b47">
+
 ---
 ## Part 2: Gather and Plot More Data (Optional with no extra points earning)##
 
@@ -26,3 +28,7 @@ for that purpose , we'll:
 - Add other base maps to choose from.
 - Put each dataset into separate overlays that can be turned on and off independently.
 - Add layer controls to our map.
+---
+<img width="1301" alt="Screenshot 2024-07-22 at 10 33 54 PM" src="https://github.com/user-attachments/assets/91df890a-0a6c-4f10-a434-fe889f395665">
+
+---
