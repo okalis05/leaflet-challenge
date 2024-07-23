@@ -8,7 +8,7 @@
 ---
 ## Part 1: Create the Earthquake Visualization ##
 
-*** For this part , we'll Complete the following steps:**
+*** For this part , we'll Complete the following steps:***
 - Get your dataset. To do so, we'll Visit the USGS GeoJSON Feed Link and choose a dataset to visualize.
 - Import and visualize the data by doing the following:
  * Using Leaflet, create a map that plots all the earthquakes from our dataset based on their longitude and latitude.
